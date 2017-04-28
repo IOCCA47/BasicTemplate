@@ -2,8 +2,8 @@
 title: Congress Alan Lowenthal
 date: 2017-02-20 18:08:00 -08:00
 phone-numbers:
-  SF Office: "(415) 556-4862"
-  DC Office: "(202) 225-4965"
+  LB Office: "(562) 436-3838"
+  DC Office: "(202) 225-7924"
 website: http://www.lowenthal.house.gov/
 ---
 
