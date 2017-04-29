@@ -1,9 +1,9 @@
 ---
 title: Calendar
-date: 2017-02-16 00:36:00 Z
+date: 2017-02-15 16:36:00 -08:00
 position: 4
-embed-code: '<iframe src="https://calendar.google.com/calendar/embed?src=sahadeva.com_7idn2pv3j949hcbvmk8g66uimc%40group.calendar.google.com&ctz=America/Los_Angeles"
-  style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+embed-code: <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=5a4j8c9d5kf4rjm8vpkv4de13s%40group.calendar.google.com&amp;color=%23B1365F&amp;src=9fq5ui1lfqp8ims6qrfeauvelk%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FLos_Angeles"
+  style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 layout: calendar
 ---
 
