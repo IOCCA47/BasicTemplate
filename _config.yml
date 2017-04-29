@@ -60,10 +60,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: |-
-  This is some type of subtitle to see what happens on the page....
-
-  And a second line of text on a third line.
+subtitle: 
 email: indivisibleOC47@gmail.com
 baseurl: 
 url: 
