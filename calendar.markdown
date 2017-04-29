@@ -7,4 +7,4 @@ embed-code: <iframe src="https://calendar.google.com/calendar/embed?title=Indivi
 layout: calendar
 ---
 
-Something here.
+Members of our [Facebook group](https://www.facebook.com/groups/indivisibleoc47/) can check out events in the FB group events page as well.
