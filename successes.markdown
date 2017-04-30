@@ -5,4 +5,3 @@ position: 1
 layout: media-grid
 ---
 
-Hello world!
