@@ -6,7 +6,7 @@ categories:
 main-image: "/uploads/square%20-%20multi.JPG"
 event-start-date: 2017-05-04 19:00:00 -07:00
 event-end-date: 2017-05-04 20:00:00 -07:00
-Location: 14261 Baker St, Westminster, CA 92683
+Location: Please contact us for location.
 ---
 
 Join us!
