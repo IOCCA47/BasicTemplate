@@ -60,9 +60,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: |-
-  We are a something something whatever I want to fill up some space and see what happens.
-  New line.
+subtitle: 
 email: indivisibleOC47@gmail.com
 baseurl: 
 url: 
