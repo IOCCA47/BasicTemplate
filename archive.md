@@ -1,6 +1,5 @@
 ---
 title: Archive
-published: false
 position: 3
 layout: default
 ---
