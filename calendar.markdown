@@ -8,4 +8,4 @@ layout: calendar
 ---
 
 Members of our [Facebook Group](https://www.facebook.com/groups/indivisibleoc47/)
-may also check the FB group events page.
+may also check the FB group events page for more opportunities.
