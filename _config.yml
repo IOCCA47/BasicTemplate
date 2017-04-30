@@ -2,9 +2,6 @@
 title: Indivisible OC CA47
 timezone: America/Los_Angeles
 collections:
-  actions:
-    title: Actions
-    output: true
   posts:
     title: Posts
     output: true
