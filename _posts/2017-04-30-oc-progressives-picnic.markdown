@@ -10,7 +10,7 @@ RSVP-link: https://www.facebook.com/events/364285043967318/
 ---
 
 Hosted by California 45th and Together We Will Orange County
-https://www.facebook.com/events/364285043967318/
+
 
 Let's build a tighter Progressives community in Orange County! Join us so that we can all get to know each other a little better and take some time to build our community outside of the rallies, protests, and other important work we are doing. This is an inclusive event and we welcome everyone who supports progressive endeavors here in Orange County. We are also inviting the declared candidates for the OC Congressional Districts so you may be able to meet our future Representatives!
 
@@ -27,3 +27,5 @@ Dessert: U-Z
 We are also having a donation drive contest at our picnic! Please bring non-perishable food items or new school supplies. Whichever Congressional District collects the most will earn bragging rights! 
 
 Co-hosted by TWW OC, California 45th, and 45th District Alliance
+
+For more information: https://www.facebook.com/events/364285043967318/
