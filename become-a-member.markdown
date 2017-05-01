@@ -38,6 +38,6 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
 layout: becomeAMember
 ---
 
-Members of our Indivisible Guide chapter come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades.  We are all patriots that want the best for our country and are willing to work for it.
+Members of our Indivisible Guide chapter come from all kinds of backgrounds and political persuasions but we are united in our goal of resisting Trump's agenda.  Some of us are first-time activists and other have been at this for decades.  We are all patriots that want the best for our country and are willing to work for it.
 
 **All are welcome.**
