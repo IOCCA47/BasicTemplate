@@ -2,7 +2,7 @@
 title: District Map
 position: 3
 Field name:
-  Key: 
+  image: "/uploads/district47map.jpg"
 layout: default
 ---
 
