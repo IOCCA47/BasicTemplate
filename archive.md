@@ -1,7 +1,7 @@
 ---
 title: District Map
 position: 3
+image: "/uploads/lowenthalmap.jpg"
 layout: default
 ---
 
-![district47map-be98e6.jpg](/uploads/district47map-be98e6.jpg)
