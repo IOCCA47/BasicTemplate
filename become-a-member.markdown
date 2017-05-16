@@ -38,6 +38,10 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
 layout: becomeAMember
 ---
 
-Members of our Indivisible Guide chapter come from all kinds of backgrounds and political persuasions but we are united in our goal of resisting Trump's agenda.  Some of us are first-time activists and others have been at this for decades.  We are all patriots that want the best for our country and are willing to work for it.
+We are the Congressional District 47 chapter of Indivisible OC, and [IndivisibleGuide.com](http://indivisibleguide.com).
+
+We are a local, inclusive group united by our collective resistance to the Trump agenda. Our goals are to address, share and support each other in our daily efforts, while staying motivated, effective and relevant.
+
+At weekly meetings we reconnect to reflect on recent events and share ideas about the ways we can move the ball forward. We might choose to do something as a group, or simply keep offering ways to stay abreast of individual actions to serve our opposition to the Trump administration's policies and agendas. We are very interested in what we can do on a grassroots level to ensure our voices are heard by our elected representatives.
 
 **All are welcome.**
